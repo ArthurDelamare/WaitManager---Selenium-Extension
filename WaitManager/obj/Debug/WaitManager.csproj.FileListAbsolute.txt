@@ -1,0 +1,8 @@
+C:\Users\Arthur\Documents\GitHub\C#\WaitManager\WaitManager\bin\Debug\WaitManager.dll
+C:\Users\Arthur\Documents\GitHub\C#\WaitManager\WaitManager\bin\Debug\WaitManager.pdb
+C:\Users\Arthur\Documents\GitHub\C#\WaitManager\WaitManager\bin\Debug\WebDriver.dll
+C:\Users\Arthur\Documents\GitHub\C#\WaitManager\WaitManager\bin\Debug\WebDriver.Support.dll
+C:\Users\Arthur\Documents\GitHub\C#\WaitManager\WaitManager\bin\Debug\WebDriver.xml
+C:\Users\Arthur\Documents\GitHub\C#\WaitManager\WaitManager\bin\Debug\WebDriver.Support.xml
+C:\Users\Arthur\Documents\GitHub\C#\WaitManager\WaitManager\obj\Debug\WaitManager.dll
+C:\Users\Arthur\Documents\GitHub\C#\WaitManager\WaitManager\obj\Debug\WaitManager.pdb
